@@ -1,5 +1,6 @@
 function sumNumbersAndVAT(input){
     let sum = 0;
+
     for (let number of input){
         sum+=number;
     }
