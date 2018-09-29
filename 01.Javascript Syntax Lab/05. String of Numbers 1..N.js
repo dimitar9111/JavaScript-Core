@@ -1,7 +1,7 @@
 function numbers(n) {
     let result = '';
-    for(let i=1; i<=n; i++){
-        result+=i;
+    for (let i = 1; i <= n; i++) {
+        result += i;
     }
 
     console.log(result);

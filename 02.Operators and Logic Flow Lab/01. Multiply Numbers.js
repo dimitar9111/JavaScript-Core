@@ -1,5 +1,5 @@
 function multiplyNumbers(firstNumber, secondNumber) {
-    console.log(firstNumber*secondNumber);
+    console.log(firstNumber * secondNumber);
 }
 
-multiplyNumbers(4,6);
+multiplyNumbers(4, 6);

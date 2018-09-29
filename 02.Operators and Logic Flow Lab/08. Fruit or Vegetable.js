@@ -1,4 +1,4 @@
-function fruitOrVegetable(input){
+function fruitOrVegetable(input) {
     switch (input) {
         case "banana":
         case "apple":

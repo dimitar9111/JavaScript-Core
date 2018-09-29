@@ -1,9 +1,9 @@
 function evenOddChecker(number) {
     if (!Number.isInteger(number)) {
         console.log("invalid");
-    }else if (number % 2 === 0){
+    } else if (number % 2 === 0) {
         console.log("even");
-    } else{
+    } else {
         console.log("odd");
     }
 }

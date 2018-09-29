@@ -1,7 +1,7 @@
 function occurrencesInString(input, character) {
     let count = 0;
-    for (let i=0;i<input.length;i++){
-        if (input[i] == character){
+    for (let i = 0; i < input.length; i++) {
+        if (input[i] == character) {
             count++;
         }
     }
@@ -9,4 +9,4 @@ function occurrencesInString(input, character) {
     console.log(count);
 }
 
-occurrencesInString('hello','l')
+occurrencesInString('hello', 'l')
