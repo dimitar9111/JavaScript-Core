@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a0b72e-9298-4bf5-8674-ad29c7087bdb" name="Default Changelist" comment="" />
+    <list default="true" id="55c26b93-0f84-48d2-8ec1-c6aae6a0e6ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01. Triangle of Stars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02. Square of Stars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. Palindrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. Day of Week.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Functional Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06. Aggregate Elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07. Words Uppercase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Javascript Syntax Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Javascript Syntax Lab/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,58 +22,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="521981110">
+    <session id="1211063167">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.9" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="20" />
+          <entry key="js" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="20" />
+          <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1231" />
+          <entry key="js" value="887" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1231" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-53049587">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="8" />
+          <entry key="JavaScript" value="887" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,14 +69,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.SumNumbers.js" />
-        <option value="$PROJECT_DIR$/02.SumAndVat.js" />
-        <option value="$PROJECT_DIR$/03. Letter Occurences In String.js" />
-        <option value="$PROJECT_DIR$/04. Filter By Age.js" />
-        <option value="$PROJECT_DIR$/05. String of Numbers 1..N.js" />
-        <option value="$PROJECT_DIR$/06. Figure Area.js" />
-        <option value="$PROJECT_DIR$/07. Next Day.js" />
-        <option value="$PROJECT_DIR$/08. Distance between Points.js" />
+        <option value="$PROJECT_DIR$/01. Triangle of Stars.js" />
+        <option value="$PROJECT_DIR$/02. Square of Stars.js" />
+        <option value="$PROJECT_DIR$/03. Palindrome.js" />
+        <option value="$PROJECT_DIR$/04. Day of Week.js" />
+        <option value="$PROJECT_DIR$/05. Functional Calculator.js" />
+        <option value="$PROJECT_DIR$/06. Aggregate Elements.js" />
+        <option value="$PROJECT_DIR$/07. Words Uppercase.js" />
       </list>
     </option>
   </component>
@@ -96,12 +86,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
-    <option name="y" value="127" />
+    <option name="x" value="1" />
+    <option name="y" value="234" />
     <option name="width" value="1346" />
     <option name="height" value="788" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,8 +104,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="01.Javascript Syntax Lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01.Javascript Syntax Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="03. Functions and Arrow Functions Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03. Functions and Arrow Functions Lab" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,8 +115,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03. Palindrome.js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +132,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Node" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/JavaScript/Node.JS/v6.4.0_x86/node" path-to-js-file="07. Next Day.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="03. Palindrome.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -148,30 +141,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6a0b72e-9298-4bf5-8674-ad29c7087bdb" name="Default Changelist" comment="" />
-      <created>1537725021849</created>
+      <changelist id="55c26b93-0f84-48d2-8ec1-c6aae6a0e6ca" name="Default Changelist" comment="" />
+      <created>1538223213536</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537725021849</updated>
-      <workItem from="1537725027114" duration="5300000" />
-      <workItem from="1537782911001" duration="807000" />
-      <workItem from="1538216661333" duration="245000" />
+      <updated>1538223213536</updated>
+      <workItem from="1538223216184" duration="4227000" />
+      <workItem from="1538289609614" duration="1794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6352000" />
+    <option name="totallyTimeSpent" value="6021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="127" width="1346" height="788" extended-state="0" />
+    <frame x="1" y="234" width="1346" height="788" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27828747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891696" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -191,59 +183,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.SumNumbers.js">
+    <entry file="file://$PROJECT_DIR$/02. Square of Stars.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.SumAndVat.js">
+    <entry file="file://$PROJECT_DIR$/01. Triangle of Stars.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. Letter Occurences In String.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Filter By Age.js">
+    <entry file="file://$PROJECT_DIR$/03. Palindrome.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05. String of Numbers 1..N.js">
+    <entry file="file://$PROJECT_DIR$/04. Day of Week.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06. Figure Area.js">
+    <entry file="file://$PROJECT_DIR$/05. Functional Calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        <state relative-caret-position="34">
+          <caret line="6" column="21" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08. Distance between Points.js">
+    <entry file="file://$PROJECT_DIR$/06. Aggregate Elements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07. Next Day.js">
+    <entry file="file://$PROJECT_DIR$/07. Words Uppercase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
