@@ -4,3 +4,5 @@ function displayTag(params) {
 
     console.log(`<img src="${location}" alt="${alternativeText}">`);
 }
+
+displayTag(["smiley.gif", "Smiley Face"]);

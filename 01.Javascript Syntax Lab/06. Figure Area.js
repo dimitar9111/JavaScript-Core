@@ -6,4 +6,4 @@ function figureArea(w, h, W, H) {
 }
 
 
-figureArea(2, 4, 5, 3)
+figureArea(2, 4, 5, 3);

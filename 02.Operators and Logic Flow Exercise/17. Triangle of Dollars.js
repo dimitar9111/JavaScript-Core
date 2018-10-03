@@ -5,3 +5,5 @@ function printTriangle(n) {
         console.log(line);
     }
 }
+
+printTriangle(4);

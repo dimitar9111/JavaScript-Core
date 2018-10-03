@@ -7,4 +7,4 @@ function calcNextDay(year, month, day) {
     console.log(`${nextDate.getFullYear()}-${nextDate.getMonth() + 1}-${nextDate.getDate()}`);
 }
 
-calcNextDay(2016, 9, 30)
+calcNextDay(2016, 9, 30);

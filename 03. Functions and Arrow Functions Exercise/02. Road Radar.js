@@ -31,3 +31,5 @@ function speedLimit(params) {
         }
     }
 }
+
+speedLimit([200, "motorway"]);

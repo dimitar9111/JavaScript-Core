@@ -20,3 +20,5 @@ function printTable(n) {
 
     console.log(result);
 }
+
+printTable(5);

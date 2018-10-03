@@ -48,3 +48,5 @@ function printCalendar(params) {
     result += '</tr>\r\n</table>';
     console.log(result);
 }
+
+printCalendar([4, 9, 2016]);

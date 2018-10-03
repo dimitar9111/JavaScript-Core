@@ -13,3 +13,7 @@ function primeChecker(number) {
 
     console.log("true");
 }
+
+primeChecker(7);
+primeChecker(2);
+primeChecker(46);

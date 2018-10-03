@@ -5,3 +5,5 @@ function oddNumbersInRange(n) {
         }
     }
 }
+
+oddNumbersInRange(12);

@@ -1,4 +1,4 @@
-function getLastmonthDays(params) {
+function getLastMonthDays(params) {
     let month = params[1];
     let year = params[2];
 
@@ -7,3 +7,5 @@ function getLastmonthDays(params) {
 
     console.log(date.getDate())
 }
+
+getLastMonthDays([17, 3, 2002]);

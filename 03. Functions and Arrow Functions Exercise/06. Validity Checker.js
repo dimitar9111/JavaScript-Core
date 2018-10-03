@@ -19,3 +19,6 @@ function isValid(params) {
         return Number.isInteger(distance);
     }
 }
+
+isValid([3, 0, 0, 4]);
+isValid([2, 1, 1, 1]);

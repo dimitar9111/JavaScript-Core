@@ -3,3 +3,7 @@ function convertGradsToDegrees(grads) {
     let result = degrees >= 0 ? degrees : 360 + degrees;
     console.log(result);
 }
+
+convertGradsToDegrees(100);
+convertGradsToDegrees(400);
+convertGradsToDegrees(315);

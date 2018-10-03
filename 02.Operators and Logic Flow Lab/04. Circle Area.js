@@ -3,3 +3,5 @@ function calculateArea(radius) {
     console.log(area);
     console.log(area.toFixed(2));
 }
+
+calculateArea(5);

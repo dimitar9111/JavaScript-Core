@@ -5,3 +5,5 @@ function displayTrackInfo(params) {
 
     console.log(`Now Playing: ${artist} - ${track} [${duration}]`)
 }
+
+displayTrackInfo(["Number one", "Nelly", "4.09"]);

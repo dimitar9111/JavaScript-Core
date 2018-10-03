@@ -4,7 +4,7 @@ function aggregateElements(params) {
         for (let i = 0; i < array.length; i++) {
             value = func(value, array[i]);
         }
-        
+
         console.log(value);
     }
 
@@ -12,3 +12,6 @@ function aggregateElements(params) {
     aggregate(params, 0, (a, b) => a + 1 / b);
     aggregate(params, "", (a, b) => a + b);
 }
+
+
+aggregateElements([1, 2, 3]);

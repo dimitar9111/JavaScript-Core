@@ -5,3 +5,6 @@ function leapYearChecker(year) {
         console.log("no");
     }
 }
+
+leapYearChecker("1999");
+leapYearChecker("2000");

@@ -48,3 +48,5 @@ function processNumber(params) {
         return number - number * 0.2;
     }
 }
+
+processNumber(32, "chop", "chop", "chop", "chop", "chop");

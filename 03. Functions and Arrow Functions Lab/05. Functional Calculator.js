@@ -34,3 +34,5 @@ function calculate(a, b, operation) {
             break;
     }
 }
+
+calculate(2, 5, "-");

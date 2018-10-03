@@ -15,3 +15,5 @@ function calculateDistance(params) {
 
     console.log(distance);
 }
+
+calculateDistance([1, 1, 0, 5, 4, 0]);

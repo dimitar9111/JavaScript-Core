@@ -7,4 +7,4 @@ function numbers(n) {
     console.log(result);
 }
 
-numbers('11')
+numbers('11');

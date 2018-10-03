@@ -7,3 +7,5 @@ function composeObject(params) {
 
     console.log(object);
 }
+
+composeObject(["name", "Pesho", "age", "23", "gender", "male"]);

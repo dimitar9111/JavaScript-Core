@@ -5,3 +5,5 @@ function getBiggestNumber(params) {
 
     console.log(Math.max(firstNum, secondNum, thirdNum));
 }
+
+getBiggestNumber([3, 5, -234]);

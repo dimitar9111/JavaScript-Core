@@ -19,3 +19,5 @@ function getRoots(a, b, c) {
         }
     }
 }
+
+getRoots(6, 11, -35);

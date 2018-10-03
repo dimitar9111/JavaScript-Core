@@ -9,3 +9,5 @@ function printNumbers(n) {
 
     console.log(result);
 }
+
+printNumbers(5);

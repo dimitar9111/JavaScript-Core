@@ -7,3 +7,5 @@ function toUpper() {
 
     console.log(result);
 }
+
+toUpper("dsadad");

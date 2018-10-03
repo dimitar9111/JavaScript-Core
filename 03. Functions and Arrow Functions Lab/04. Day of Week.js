@@ -1,5 +1,5 @@
-function getDayOfTheWeek(n) {
-    switch (n) {
+function getDayOfTheWeek(day) {
+    switch (day) {
         case "Monday":
             console.log("1");
             break;
@@ -25,3 +25,5 @@ function getDayOfTheWeek(n) {
             console.log("error");
     }
 }
+
+getDayOfTheWeek("Tuesday");

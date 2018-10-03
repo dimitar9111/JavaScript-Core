@@ -9,4 +9,4 @@ function occurrencesInString(input, character) {
     console.log(count);
 }
 
-occurrencesInString('hello', 'l')
+occurrencesInString('hello', 'l');

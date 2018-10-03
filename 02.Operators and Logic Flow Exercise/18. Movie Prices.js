@@ -114,3 +114,5 @@ function getMoviePrice(params) {
         console.log("error");
     }
 }
+
+getMoviePrice(["the wizard of oz", "wednesday"]);

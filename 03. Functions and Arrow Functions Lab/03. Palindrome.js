@@ -7,3 +7,6 @@ function isPalindrome(word) {
     }
     console.log("true");
 }
+
+isPalindrome("abba");
+isPalindrome("not palindrome");

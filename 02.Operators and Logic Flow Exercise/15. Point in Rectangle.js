@@ -12,3 +12,5 @@ function pointInrectangle(params) {
         console.log("outside");
     }
 }
+
+pointInrectangle([8, -1, 2, 12, -3, 3]);

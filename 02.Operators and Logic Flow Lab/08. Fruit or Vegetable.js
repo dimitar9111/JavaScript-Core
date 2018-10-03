@@ -22,3 +22,7 @@ function fruitOrVegetable(input) {
             break;
     }
 }
+
+fruitOrVegetable("tomato");
+fruitOrVegetable("pizza");
+fruitOrVegetable("peach");

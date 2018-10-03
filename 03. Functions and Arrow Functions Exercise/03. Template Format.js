@@ -12,3 +12,5 @@ function printTemplate(params) {
 
     console.log(result);
 }
+
+printTemplate(["Where are you?", "outside"]);

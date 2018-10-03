@@ -30,3 +30,5 @@ function findInsideVolume(params) {
         return false;
     }
 }
+
+findInsideVolume([8, 20, 22]);
