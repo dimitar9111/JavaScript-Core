@@ -69,6 +69,7 @@ function printOrbitOfPoint(params) {
     }
 }
 
+
 printOrbitOfPoint([4, 4, 0, 0]);
 console.log();
 printOrbitOfPoint([5, 5, 2, 2]);
