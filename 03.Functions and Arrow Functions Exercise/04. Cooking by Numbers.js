@@ -5,23 +5,23 @@ function processNumber(params) {
         const operation = params[i];
 
         switch (operation) {
-            case "chop":
+            case 'chop':
                 number = chop(number);
                 console.log(number);
                 break;
-            case "bake":
+            case 'bake':
                 number = bake(number);
                 console.log(number);
                 break;
-            case "dice":
+            case 'dice':
                 number = dice(number);
                 console.log(number);
                 break;
-            case "spice":
+            case 'spice':
                 number = spice(number);
                 console.log(number);
                 break;
-            case "fillet":
+            case 'fillet':
                 number = fillet(number);
                 console.log(number);
                 break;
@@ -49,4 +49,4 @@ function processNumber(params) {
     }
 }
 
-processNumber(32, "chop", "chop", "chop", "chop", "chop");
+processNumber(32, 'chop', 'chop', 'chop', 'chop', 'chop');

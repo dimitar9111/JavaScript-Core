@@ -1,12 +1,12 @@
 function isPalindrome(word) {
     for (let i = 0; i < word.length; i++) {
         if (word[i] !== word[word.length -1 - i]) {
-            console.log("false");
+            console.log('false');
             return;
         }
     }
-    console.log("true");
+    console.log('true');
 }
 
-isPalindrome("abba");
-isPalindrome("not palindrome");
+isPalindrome('abba');
+isPalindrome('not palindrome');

@@ -3,4 +3,4 @@ function sumFirstAndLast(params) {
     console.log(result);
 }
 
-sumFirstAndLast(["10", "20", "30"]);
+sumFirstAndLast(['10', '20', '30']);

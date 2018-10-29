@@ -26,7 +26,7 @@ function getMoviePrice(params) {
                 console.log(30);
                 break;
             default:
-                console.log("error");
+                console.log('error');
                 break;
         }
     } else if (title == 'schindler\'s list') {
@@ -53,7 +53,7 @@ function getMoviePrice(params) {
                 console.log(15);
                 break;
             default:
-                console.log("error");
+                console.log('error');
                 break;
         }
     } else if (title == 'casablanca') {
@@ -80,7 +80,7 @@ function getMoviePrice(params) {
                 console.log(10);
                 break;
             default:
-                console.log("error");
+                console.log('error');
                 break;
         }
     } else if (title == 'the wizard of oz') {
@@ -107,12 +107,12 @@ function getMoviePrice(params) {
                 console.log(15);
                 break;
             default:
-                console.log("error");
+                console.log('error');
                 break;
         }
     } else {
-        console.log("error");
+        console.log('error');
     }
 }
 
-getMoviePrice(["the wizard of oz", "wednesday"]);
+getMoviePrice(['the wizard of oz', 'wednesday']);

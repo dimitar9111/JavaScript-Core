@@ -2,7 +2,7 @@ function getRoots(a, b, c) {
     let discriminant = b * b - 4 * a * c;
 
     if (discriminant < 0) {
-        console.log("No");
+        console.log('No');
     } else if (discriminant === 0) {
         let root = -b / (2 * a);
         console.log(root)

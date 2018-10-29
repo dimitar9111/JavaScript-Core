@@ -10,7 +10,7 @@ function getLastKElements(length, elementsCount) {
         result.push(newElement);
     }
 
-    console.log(result.join(" "));
+    console.log(result.join(' '));
 }
 
 getLastKElements(8, 2);

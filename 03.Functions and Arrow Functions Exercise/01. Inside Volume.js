@@ -7,9 +7,9 @@ function findInsideVolume(params) {
 
         let result = isInside(x, y, z);
         if (result) {
-            console.log("inside");
+            console.log('inside');
         } else {
-            console.log("outside");
+            console.log('outside');
         }
     }
 

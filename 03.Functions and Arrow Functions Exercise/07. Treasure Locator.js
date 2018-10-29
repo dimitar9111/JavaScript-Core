@@ -9,7 +9,7 @@ function findLocation(params) {
     }
 
     let tuvalu = {
-        name: "Tuvalu",
+        name: 'Tuvalu',
         xMin: 1,
         xMax: 3,
         yMin: 1,
@@ -17,7 +17,7 @@ function findLocation(params) {
     };
 
     let tokelau = {
-        name: "Tokelau",
+        name: 'Tokelau',
         xMin: 8,
         xMax: 9,
         yMin: 0,
@@ -25,7 +25,7 @@ function findLocation(params) {
     };
 
     let samoa = {
-        name: "Samoa",
+        name: 'Samoa',
         xMin: 5,
         xMax: 7,
         yMin: 3,
@@ -33,7 +33,7 @@ function findLocation(params) {
     };
 
     let cook = {
-        name: "Cook",
+        name: 'Cook',
         xMin: 4,
         xMax: 9,
         yMin: 7,
@@ -41,7 +41,7 @@ function findLocation(params) {
     };
 
     let tonga = {
-        name: "Tonga",
+        name: 'Tonga',
         xMin: 0,
         xMax: 2,
         yMin: 6,
@@ -64,7 +64,7 @@ function findLocation(params) {
         }
 
         if (!isInsideCheck) {
-            console.log("On the bottom of the ocean");
+            console.log('On the bottom of the ocean');
         }
     }
 }

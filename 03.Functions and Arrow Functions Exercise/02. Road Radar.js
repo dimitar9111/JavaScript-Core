@@ -10,26 +10,26 @@ function speedLimit(params) {
 
     function getLimit(area) {
         switch (area) {
-            case "motorway":
+            case 'motorway':
                 return 130;
-            case "interstate":
+            case 'interstate':
                 return 90;
-            case "city":
+            case 'city':
                 return 50;
-            case "residential":
+            case 'residential':
                 return 20;
         }
     }
 
     function getInfraction(speed) {
         if (speed <= 20) {
-            return "speeding";
+            return 'speeding';
         } else if (speed <= 40) {
-            return "excessive speeding";
+            return 'excessive speeding';
         } else {
-            return "reckless driving";
+            return 'reckless driving';
         }
     }
 }
 
-speedLimit([200, "motorway"]);
+speedLimit([200, 'motorway']);

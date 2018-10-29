@@ -20,19 +20,19 @@ function calculate(a, b, operation) {
     };
 
     switch (operation) {
-        case "+":
+        case '+':
             console.log(calculate(a, b, add));
             break;
-        case "-":
+        case '-':
             console.log(calculate(a, b, subtract));
             break;
-        case "*":
+        case '*':
             console.log(calculate(a, b, multiply));
             break;
-        case "/":
+        case '/':
             console.log(calculate(a, b, divide));
             break;
     }
 }
 
-calculate(2, 5, "-");
+calculate(2, 5, '-');

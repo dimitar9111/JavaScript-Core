@@ -7,9 +7,9 @@ function pointInrectangle(params) {
     let yMax = params[5];
 
     if (x >= xMin && x <= xMax && y >= yMin && y <= yMax) {
-        console.log("inside");
+        console.log('inside');
     } else {
-        console.log("outside");
+        console.log('outside');
     }
 }
 

@@ -11,7 +11,7 @@ function sortNumbers(params) {
         }
     }
 
-    console.log(result.join("\n"));
+    console.log(result.join('\n'));
 }
 
 sortNumbers([7, -2, 8, 9]);

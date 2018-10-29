@@ -3,4 +3,4 @@ function printArray(params) {
     console.log(params.join(delimiter))
 }
 
-printArray(["one", "two", "three", "four", "five", "-"]);
+printArray(['one', 'two', 'three', 'four', 'five', '-']);

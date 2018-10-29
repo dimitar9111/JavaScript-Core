@@ -4,10 +4,10 @@ function addRemoveElements(params) {
 
     for (let i = 0; i < params.length; i++) {
         switch (params[i]) {
-            case "add":
+            case 'add':
                 result.push(value);
                 break;
-            case "remove":
+            case 'remove':
                 result.pop();
                 break;
         }
@@ -15,8 +15,8 @@ function addRemoveElements(params) {
         value++;
     }
 
-    let output = result.length === 0 ? "Empty" : result.join("\n");
+    let output = result.length === 0 ? 'Empty' : result.join('\n');
     console.log(output);
 }
 
-addRemoveElements(["add", "add", "remove", "add", "add"])
+addRemoveElements(['add', 'add', 'remove', 'add', 'add'])

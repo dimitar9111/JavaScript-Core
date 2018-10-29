@@ -1,6 +1,6 @@
 function sortArray(params) {
 
-    console.log(params.sort((a, b) => compare(a, b)).join("\n"));
+    console.log(params.sort((a, b) => compare(a, b)).join('\n'));
 
     function compare(a, b) {
         let comparator = a.length - b.length;
@@ -17,4 +17,4 @@ function sortArray(params) {
     }
 }
 
-sortArray(["alpha", "beta", "gamma"]);
+sortArray(['alpha', 'beta', 'gamma']);

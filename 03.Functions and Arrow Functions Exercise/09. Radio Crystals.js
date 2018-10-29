@@ -68,7 +68,7 @@ function processCrystals(params) {
 
             if (currentThickness < targetThickness) {
                 currentThickness = xRay(currentThickness);
-                console.log("X-ray x1")
+                console.log('X-ray x1')
                 break;
             }
         }
@@ -98,7 +98,7 @@ function processCrystals(params) {
     }
 
     function transportAndWash(currentThickness) {
-        console.log("Transporting and washing");
+        console.log('Transporting and washing');
         return Math.floor(currentThickness);
     }
 }

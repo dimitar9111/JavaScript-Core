@@ -2,27 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a0b72e-9298-4bf5-8674-ad29c7087bdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/07. Treasure Locator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/08. Trip Length.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/09. Radio Crystals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/10. DNA Helix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/01. Sum First Last.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/02. Even Position Elements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/03. Negative  Positive Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/04. First and Last K Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/05. Last K Numbers Sequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/06. Process Odd Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/07. Smallest Two Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/08. Biggest Element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/09. Diagonal Sums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Lab/10. Equal Neighbors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Letter Occurences In String.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Letter Occurences In String.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. String of Numbers 1..N.js" beforeDir="false" afterPath="$PROJECT_DIR$/05. String of Numbers 1..N.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Figure Area.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Figure Area.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07. Next Day.js" beforeDir="false" afterPath="$PROJECT_DIR$/07. Next Day.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08. Distance between Points.js" beforeDir="false" afterPath="$PROJECT_DIR$/08. Distance between Points.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03. Functions and Arrow Functions Exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise/01. Heroic Inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise/02. JSON's Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise/03. Cappy Juice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise/04. Store Catalogue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/01. Towns to JSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/02. Score to HTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/03. JSON to HTML Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/04. Sum by Town.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/05. Count Words in a Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/06. Count Words with Maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/07. Population in Towns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/08. City Markets..js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/09. Lowest Prices in Cities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Lab/10. Extract Unique Words.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/01. Hello, JavaScript!.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/01. Hello, JavaScript!.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/09. Now Playing.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/09. Now Playing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/10. Compose Tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/10. Compose Tag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/12. Assign Properties.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/12. Assign Properties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/15. Point in Rectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/15. Point in Rectangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/17. Triangle of Dollars.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/17. Triangle of Dollars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/18. Movie Prices.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/18. Movie Prices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/19. Quadratic Equation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/19. Quadratic Equation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/20. Multiplication Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/20. Multiplication Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/21. Figure of 4 Squares.js" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Operators and Logic Flow Exercise/21. Figure of 4 Squares.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.Arrays and Matrices Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04.Arrays and Matrices Exercise/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,19 +75,20 @@
     <session id="-53049587">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="20" />
+          <entry key="js" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="20" />
+          <entry key="JavaScript" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -95,7 +104,80 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.SumNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.SumAndVat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03. Letter Occurences In String.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. Filter By Age.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05. String of Numbers 1..N.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06. Figure Area.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Next Day.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08. Distance between Points.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,7 +237,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/08. Distance between Points.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../06.JavaScript Objects and Assoc Arrays Excercise" />
     <property name="nodejs_interpreter_path" value="node" />
   </component>
   <component name="RunDashboard">
@@ -189,16 +271,19 @@
       <workItem from="1537782911001" duration="807000" />
       <workItem from="1538216661333" duration="245000" />
       <workItem from="1538589863614" duration="97000" />
+      <workItem from="1540761108087" duration="50000" />
+      <workItem from="1540761775994" duration="83000" />
+      <workItem from="1540839307805" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6449000" />
+    <option name="totallyTimeSpent" value="6600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="116" width="1346" height="788" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,24 +309,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05. String of Numbers 1..N.js">
+    <entry file="file://$PROJECT_DIR$/01.SumNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Filter By Age.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03. Letter Occurences In String.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -252,10 +323,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.SumNumbers.js">
+    <entry file="file://$PROJECT_DIR$/03. Letter Occurences In String.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Filter By Age.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. String of Numbers 1..N.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,11 +1,11 @@
 function printTable(n) {
-    let result = "<table border=\"1\">\n";
-    result += "<tr><th>x</th>";
+    let result = '<table border=\"1\">\n';
+    result += '<tr><th>x</th>';
 
     for (let i = 1; i <= n; i++) {
         result += `<th>${i}</th>`;
     }
-    result += "</tr>\n";
+    result += '</tr>\n';
 
     for (let i = 1; i <= n; i++) {
 
@@ -14,9 +14,9 @@ function printTable(n) {
             result += `<td>${j * i}</td>`;
 
         }
-        result += "</tr>\n";
+        result += '</tr>\n';
     }
-    result += "</table>";
+    result += '</table>;'
 
     console.log(result);
 }

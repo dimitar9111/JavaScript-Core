@@ -9,7 +9,7 @@ function findEvenPositionElements(params) {
         }
     }
 
-    console.log(result.join(" "));
+    console.log(result.join(' '));
 }
 
-findEvenPositionElements(["0", "1", "2", "3"]);
+findEvenPositionElements(['0', '1', '2', '3']);

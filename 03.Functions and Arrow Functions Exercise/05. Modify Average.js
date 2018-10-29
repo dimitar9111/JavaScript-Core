@@ -1,5 +1,5 @@
 function modifyNumber(number) {
-    let numberAsString = "" + number;
+    let numberAsString = '' + number;
 
     while (true) {
         let sum = 0;
@@ -10,7 +10,7 @@ function modifyNumber(number) {
         if (sum / numberAsString.length > 5) {
             break;
         }
-        numberAsString += "9";
+        numberAsString += '9';
     }
 
     console.log(numberAsString);

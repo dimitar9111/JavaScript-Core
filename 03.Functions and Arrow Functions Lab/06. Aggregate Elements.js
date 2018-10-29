@@ -10,7 +10,7 @@ function aggregateElements(params) {
 
     aggregate(params, 0, (a, b) => a + b);
     aggregate(params, 0, (a, b) => a + 1 / b);
-    aggregate(params, "", (a, b) => a + b);
+    aggregate(params, '', (a, b) => a + b);
 }
 
 

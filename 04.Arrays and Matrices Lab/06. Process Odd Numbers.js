@@ -7,7 +7,7 @@ function processOddNumbers(params) {
         }
     }
 
-    console.log(result.reverse().join(" "));
+    console.log(result.reverse().join(' '));
 }
 
 processOddNumbers([10, 15, 20, 25]);

@@ -1,10 +1,10 @@
 function printDNA(n) {
-    let symbols = ["A", "T", "C", "G", "T", "T", "A", "G", "G", "G"];
+    let symbols = ['A', 'T', 'C', 'G', 'T', 'T', 'A', 'G', 'G', 'G'];
     let starElementsCount = 1;
     let rowElementsCount = 6;
     let starsCountChanger = false;
-    let star = "*";
-    let dash = "-";
+    let star = '*';
+    let dash = '-';
 
     for (let i = 0; i < n; i++) {
         let firstLetter = symbols.shift();
